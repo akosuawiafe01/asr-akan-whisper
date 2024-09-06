@@ -1,1 +1,1 @@
-# asr-akan-whisper
+# Whisper-Based Speech Recognition for Akan
