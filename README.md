@@ -1,1 +1,1 @@
-# Whisper-Based Speech Recognition for Akan"
+# Whisper-Based Speech Recognition for Akan
